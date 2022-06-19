@@ -1,0 +1,38 @@
+_repo: The-war-of-the-Carolinas_68275
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Reid, Stephen
+    birthdate: 1873
+    deathdate: 1948
+    gutenberg_agent_id: '5698'
+    url: http://www.gutenberg.org/2009/agents/5698
+    wikipedia: https://en.wikipedia.org/wiki/Stephen_Reid_(artist)
+creator:
+  author:
+    agent_name: Nicholson, Meredith
+    birthdate: 1866
+    deathdate: 1947
+    gutenberg_agent_id: '4371'
+    url: http://www.gutenberg.org/2009/agents/4371
+    wikipedia: https://en.wikipedia.org/wiki/Meredith_Nicholson
+description: ''
+gutenberg_issued: '2022-06-10'
+identifiers:
+  gutenberg: '68275'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=njp.32101063881393&view=1up&seq=20&skin=2021
+pgterms:marc905: 20210924144348nicholson
+pgterms:marc906: '1909'
+pgterms:marc907: GB
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: United Kingdom :Thomas Nelson & Sons,1909,pubdate 1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The war of the Carolinas
+url: http://www.gutenberg.org/ebooks/68275
