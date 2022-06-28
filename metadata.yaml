@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '5698'
     url: http://www.gutenberg.org/2009/agents/5698
     wikipedia: https://en.wikipedia.org/wiki/Stephen_Reid_(artist)
+covers:
+- cover_type: archival
+  image_path: 68275-h/images/cover.jpg
 creator:
   author:
     agent_name: Nicholson, Meredith
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4371
     wikipedia: https://en.wikipedia.org/wiki/Meredith_Nicholson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68275#The-war-of-the-Carolinas
 gutenberg_issued: '2022-06-10'
 identifiers:
   gutenberg: '68275'
